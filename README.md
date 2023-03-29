@@ -9,4 +9,4 @@
 muyaaho/muyaaho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-많이 부족하지만 열심히 하겠습니다!
+열심히 하겠습니다 🏋️
