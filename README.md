@@ -1,5 +1,5 @@
 ### Hi There 👋
-
+![jihee's GitHub stats](https://github-readme-stats.vercel.app/api?username=muyaaho&show_icons=true&theme=buefy)
 
 <!---
 - 👋 Hi, I’m @muyaaho
@@ -53,4 +53,6 @@ Windows                  19 hrs 41 mins      ███████████�
 
  Last Updated on 24/03/2024 18:40:11 UTC
 <!--END_SECTION:waka-->
+
+
 
