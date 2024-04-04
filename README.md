@@ -1,5 +1,5 @@
 ### Hi There 👋
-![jihee's GitHub stats](https://github-readme-stats.vercel.app/api?username=muyaaho&show_icons=true&theme=buefy)
+![jihee's GitHub stats](https://github-readme-stats.vercel.app/api?username=muyaaho&show_icons=true&theme=vue)
 
 <!---
 - 👋 Hi, I’m @muyaaho
